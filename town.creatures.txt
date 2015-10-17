@@ -1,0 +1,163 @@
+Scale wesnoth files x1.5 or convert png to svg http://www.youtube.com/watch?v=KRkx8kjmXZw
+Licence for wesnoth files:
+The game's source code and artwork, sound, and music assets are provided under the terms of the GNU General Public License version 2, or (at your option) any later version. Note that for artwork, sound, and music, we interpret "preferred form of the work for making modifications" as the modifiable form that the author chooses to ship us for the source tree. For convenience, a reference copy of the GNU GPL version 2 is provided in the COPYING file in this distribution.
+
+http://sourceforge.net/p/wesnoth-umc-dev/code/HEAD/tree/
+
+http://www.heroesofmightandmagic.com/heroes3/creaturescastle.shtml
+Pikeman
+Halberdier
+Archer
+Marksman
+Griffin - http://units.wesnoth.org/1.10/Great_Legend_Era/en_US/Young%20Gryphon.html
+Royal Griffin - http://units.wesnoth.org/1.10/mainline/en_US/Gryphon.html
+Swordsman - http://units.wesnoth.org/1.10/Great_Legend_Era/en_US/Captain.html
+Crusader - http://units.wesnoth.org/1.10/Great_Legend_Era/en_US/Champion.html
+Monk
+Zealot
+Cavalier - http://units.wesnoth.org/1.12/mainline/en_US/Horseman.html
+Champion - http://units.wesnoth.org/1.12/mainline/en_US/Knight.html
+Angel
+Archangel
+
+http://www.heroesofmightandmagic.com/heroes3/creaturestower.shtml
+Gremlin
+Master Gremlin
+Stone Gargoyle - http://units.wesnoth.org/1.12/Era_of_Myths/en_US/EOM_Gargoyle.html
+Obsidian Gargoyle - http://units.wesnoth.org/1.12/Era_of_Myths/en_US/EOM_Marlgoyle.html
+Stone Golem - http://www.wesnoth.org/units/1.12/The_Legend_Begins/en_US/Stone%20Golem.html - http://www.wesnoth.org/units/1.12/The_Legend_Begins/en_US/Kobold.html - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Golem.html
+Iron Golem - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Golem_Boss.html
+Mage - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Adept_of_Light.html http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Cleric.html
+Arch Mage - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Prophet_of_Light.html
+Genie - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Jinn.html http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Jinn.html
+Master Genie - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Wonderful_Jinn.html
+Naga - http://units.wesnoth.org/1.12/mainline/en_US/Naga%20Fighter.html
+Naga Queen - http://units.wesnoth.org/1.12/mainline/en_US/Naga%20Warrior.html - http://units.wesnoth.org/1.12/mainline/en_US/Naga%20Myrmidon.html
+Giant
+Titan - http://www.wesnoth.org/units/1.6/mr_IN/Enchtitn.html
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesinferno.shtml
+Imp
+Familiar
+Gog
+Magog
+Hell Hound
+Cerberus
+Demon
+Horned Demon
+Pit Fiend
+Pit Lord
+Efreeti - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Efreet.html
+Efreet Sultan - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Great_Efreeti.html
+Devil
+Arch Devil
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesfortress.shtml
+Gnoll
+Gnoll Maraudeur
+Lizardman
+Lizard Warrior
+Serpent Fly - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Pirafly.html ?
+Dragon Fly - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Pirania_Monstruosa.html ?
+Basilisk
+Greater Basilisk
+Gorgon
+Mighty Gorgon
+Wyvern - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Wyvern.html
+Wyvern Monarch - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Great_Wyvern.html http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Chaos_Wyvern.html
+Hydra - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Hydra.html http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Raging_Hydra.html
+Chaos Hydra - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Chaos_Hydra.html
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesrampart.shtml
+Centaur - http://www.wesnoth.org/units/1.4/de_DE/Centaur.html or http://forums.wesnoth.org/viewtopic.php?f=19&t=41198
+Centaur Captain - http://www.wesnoth.org/units/1.4/de_DE/Centaur_Knight.html (repaint in white?)
+Dwarf
+Battle Dwarf
+Wood Elf
+Grand Elf
+Pegasus
+Silver Pegasus
+Dendroid Guard
+Dendroid Soldier
+Unicorn
+War Unicorn
+Green Dragon
+Gold Dragon
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesdungeon.shtml
+Troglodyte
+Infernal Troglodyte
+Harpy
+Harpy Hag
+Beholder
+Evil Eye
+Medusa
+Medusa Queen
+Minotaur
+Minotaur King
+Manticore
+Scorpicore
+Red Dragon
+Black Dragon
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesstronghold.shtml
+Goblin
+Hobgoblin
+Wolf Rider
+Wolf Raider
+Orc
+Orc Chieftain
+Ogre
+Ogre Magi
+Roc
+Thunderbird
+Cyclops
+Cyclops King
+Behemoth
+Ancient Behemoth
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesnecropolis.shtml
+Skeleton - http://units.wesnoth.org/1.10/mainline/en_US/Skeleton.html
+Skeleton Warrior - http://units.wesnoth.org/1.12/mainline/en_US/Skeleton.html
+Walking Dead - http://units.wesnoth.org/1.12/mainline/en_US/Walking%20Corpse.html
+Zombie - http://units.wesnoth.org/1.12/mainline/en_US/Soulless.html
+Wight - http://units.wesnoth.org/1.12/mainline/en_US/Ghost.html
+Wraith - http://units.wesnoth.org/1.12/mainline/en_US/Shadow.html
+Vampire - http://units.wesnoth.org/1.12/Era_of_Myths/en_US/EOM_Blood_Apprentice.html http://units.wesnoth.org/1.12/mainline/en_US/Vampire%20Bat.html
+Vampire Lord - http://units.wesnoth.org/1.12/Era_of_Myths/en_US/EOM_Blood_Manipulator.html http://units.wesnoth.org/1.12/mainline/en_US/Blood%20Bat.html
+Lich - http://units.wesnoth.org/1.12/mainline/en_US/Lich.html
+Power Lich - http://units.wesnoth.org/1.12/mainline/en_US/Ancient%20Lich.html
+Black Knight - http://units.wesnoth.org/1.12/Ageless_Era/en_US/AE_arc_despair_Black_Horseman.html - http://units.wesnoth.org/1.10/Great_Legend_Era/en_US/Black%20Knight.html
+Dread Knight - http://units.wesnoth.org/1.12/Ageless_Era/en_US/AE_arc_despair_Black_Slayer.html
+Bone Dragon - http://units.wesnoth.org/1.10/mainline/en_US/Skeletal%20Dragon.html - http://units.wesnoth.org/1.12/mainline/en_US/Skeletal%20Dragon.html
+Ghost Dragon - (white) http://units.wesnoth.org/1.12/mainline/en_US/Skeletal%20Dragon.html
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesneutral.shtml
+Air Elemental
+Water Elemental - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Water_Elemental.html
+Fire Elemental - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Fire_Elemental.html
+Earth Elemental - http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Earth_Elemental.html
+Gold Golem
+Diamond Golem
+
+http://www.heroesofmightandmagic.com/heroes3/creaturesmachines.shtml
+Ammo Cart
+Ballista
+First Aid Tent
+Catapult
+
+http://units.wesnoth.org/1.12/Era_of_Magic/en_US/EoMa_Dimensional_Gate.html
+
+http://www.wesnoth.org/units/1.12/The_Legend_Begins/en_US/Golem.html
+http://www.wesnoth.org/units/1.12/The_Legend_Begins/en_US/Sentinel%20Golem.html
+http://www.wesnoth.org/units/1.12/The_Legend_Begins/en_US/Guardian%20Golem.html
+---
+the.legend.begins/images/units/woodlanders
+sentinel-golem.png
+golem.png
+guardian-golem.png
+
+era.of.chaos/images/units/elementals
+golem.png
+http://www.wesnoth.org/units/1.10/ivrim/en_US/Clay%20Golem3.html
+http://units.wesnoth.org/1.10/mainline/en_US/Fire%20Dragon.html
