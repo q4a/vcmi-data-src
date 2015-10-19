@@ -1,0 +1,3 @@
+cd ~/vcmi/lodextract
+for f in ~/vcmi/defs/*; do python defextract.py $f ~/vcmi/defs/ext || break; done
+for f in ~/vcmi/defs/ext/*.json; do python makedef.py $f ~/vcmi/defs/ext || break; done
