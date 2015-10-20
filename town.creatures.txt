@@ -161,3 +161,8 @@ era.of.chaos/images/units/elementals
 golem.png
 http://www.wesnoth.org/units/1.10/ivrim/en_US/Clay%20Golem3.html
 http://units.wesnoth.org/1.10/mainline/en_US/Fire%20Dragon.html
+---
+find License:
+http://s83.photobucket.com/user/T2_2112/library/Viet%20hoa%20H3?sort=3&page=1
+
+
