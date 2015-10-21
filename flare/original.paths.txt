@@ -1,0 +1,2 @@
+https://github.com/clintbellanger/flare-game/tree/master/mods/fantasycore/images/loot
+https://github.com/clintbellanger/flare-game/tree/master/mods/fantasycore/images/tilesets
