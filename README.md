@@ -19,7 +19,7 @@ Sample data for VCMI Project. There is h3demo data now, but it will be replaced 
 
 * VCMI
 * The Battle for Wesnoth
-* Check Licenses file
+* Check Licenses.txt file
 
 ### TODO ###
 

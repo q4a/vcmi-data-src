@@ -1,4 +1,10 @@
-http://www.freedroid.org/pmwiki/pmwiki.php?n=Doc.RenderingGraphics
+
+http://forum.df2.ru/index.php?showtopic=19137 - all mods
+http://forum.df2.ru/index.php?showtopic=32267 - 3D guide (russian)
+http://forum.df2.ru/index.php?showtopic=16223 - guide for modding (russian)
+http://ax-o-lotl.deviantart.com/gallery/ - creatures
+https://yadi.sk/d/VW9nb33U4eWve - homm portraits
+http://wforum.heroes35.net/showthread.php?tid=754&page=1 - homm portraits
 https://www.youtube.com/watch?v=uF_npsJFjA0 - gem texture
 
 /home/1/vcmi/freedroidrpg/graphics/items/red_dilitium_crystal
