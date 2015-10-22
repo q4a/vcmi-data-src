@@ -1,5 +1,13 @@
+http://www.freedroid.org/pmwiki/pmwiki.php?n=Doc.RenderingGraphics
+https://www.youtube.com/watch?v=uF_npsJFjA0 - gem texture
 
-
+/home/1/vcmi/freedroidrpg/graphics/items/red_dilitium_crystal
+/home/1/vcmi/freedroidrpg/graphics/blasts - magic
+http://nobiax.deviantart.com/art/Free-textures-pack-57-443783461
+https://www.youtube.com/watch?v=-yIfoaCQ-7M - create hill
+https://bitbucket.org/uzudil/scourge2/wiki/Home
+http://sourceforge.net/projects/scourge/
+http://illarion.org/
 http://www.freedroid.org/
 http://sourceforge.net/projects/lechemindeladam/
 http://sumwars.org/wiki/Main_Page
@@ -11,7 +19,7 @@ http://opengameart.org/content/magic-and-mechanic-in-game-interface-icons
 http://opengameart.org/content/food-pack
 http://opengameart.org/content/markeus-b-ui-buttons - attack/defence
 http://opengameart.org/content/pixvoxel-colorful-isometric-wargame-sprites - destroy
-https://www.youtube.com/watch?v=uF_npsJFjA0
+
 http://opengameart.org/content/free-mine-assets-pack
 http://opengameart.org/content/pile-coins-w-procedural-node-material-blender-25
 http://opengameart.org/content/tools-icons
@@ -39,6 +47,7 @@ http://clipart.nicubunu.ro/?gallery=rpg_map
 https://github.com/igorko/flare-mod-noname
 s
 
+http://opengameart.org/content/flags-0
 http://opengameart.org/content/250-hud-and-interface-icons-unknown-horizons - flags +UI
 http://opengameart.org/content/real-time-strategy-gui-hud-elements-unknown-horizons - UI
 
