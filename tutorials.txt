@@ -1,8 +1,9 @@
 
-http://forum.df2.ru/index.php?showtopic=19137 - all mods (ru)
-http://forum.df2.ru/index.php?showtopic=32267 - 3D guide (ru)
-http://forum.df2.ru/index.php?showtopic=16223 - guide for modding (ru)
+http://forum.df2.ru/index.php?showtopic=19137 - all mods
+http://forum.df2.ru/index.php?showtopic=32267 - 3D guide
+http://forum.df2.ru/index.php?showtopic=16223 - guide for modding
 http://www.freedroid.org/pmwiki/pmwiki.php?n=Doc.RenderingGraphics (en)
 
 gimp:
-http://www.progimp.ru/articles/sozdanie_bukv_iz_travi/ (ru)
+http://www.progimp.ru/articles/sozdanie_bukv_iz_travi/
+http://www.progimp.ru/qa/kak_sdelat_ten/
