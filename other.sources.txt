@@ -1,8 +1,5 @@
 
-60301c - hard
- - med
-fbbea2 - pink
-
+http://opengameart.org/content/flare-model-horse
 http://www.html5gamedevelopment.com/html5-tools/2012-01-free-game-graphics-and-audio-resources
 http://gamedev.stackexchange.com/questions/20/where-can-i-find-free-sprites-and-images
 http://hasgraphics.com/small-world/ - hill, gold

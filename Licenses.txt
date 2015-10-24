@@ -7,6 +7,9 @@ The game's source code and artwork, sound, and music assets are provided under t
 * Flare:
 All of Flare's art and data files are released under CC-BY-SA 3.0. Later versions are permitted.
 
+* Unknown Horizons:
+Unknown Horizons is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
 *  Project Legends:
 In terms of license all the stuff I'm basing or will be basing my work on is confirmed to be either public domain or cc-by-sa. Licensing is a big headache (contacting people , confirming licenses etc.) but it needs to be done.
 
