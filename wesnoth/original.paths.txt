@@ -1,0 +1,2 @@
+https://github.com/wesnoth/wesnoth/tree/master/images/cursors
+https://github.com/wesnoth/wesnoth/tree/master/data/core/images/halo
