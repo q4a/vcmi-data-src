@@ -1,0 +1,18 @@
+{
+    "format": 1, 
+    "type": 71, 
+    "sequences": [
+        {
+            "frames": [
+                "RESOURCE.dir/00_00.png", 
+                "RESOURCE.dir/00_01.png", 
+                "RESOURCE.dir/00_02.png", 
+                "RESOURCE.dir/00_03.png", 
+                "RESOURCE.dir/00_04.png", 
+                "RESOURCE.dir/00_05.png", 
+                "RESOURCE.dir/00_06.png" 
+            ], 
+            "group": 0
+        }
+    ]
+}

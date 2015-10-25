@@ -1,0 +1,18 @@
+{
+    "format": 1, 
+    "type": 71, 
+    "sequences": [
+        {
+            "frames": [
+                "agemLL.dir/00_00.png", 
+                "agemLL.dir/00_01.png", 
+                "agemLL.dir/00_02.png", 
+                "agemLL.dir/00_03.png", 
+                "agemLL.dir/00_04.png", 
+                "agemLL.dir/00_05.png", 
+                "agemLL.dir/00_06.png" 
+            ], 
+            "group": 0
+        }
+    ]
+}

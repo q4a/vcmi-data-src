@@ -7,3 +7,4 @@ http://www.freedroid.org/pmwiki/pmwiki.php?n=Doc.RenderingGraphics (en)
 gimp:
 http://www.progimp.ru/articles/sozdanie_bukv_iz_travi/
 http://www.progimp.ru/qa/kak_sdelat_ten/
+http://www.youtube.com/watch?v=O8mJKAUmAdw

@@ -4,6 +4,9 @@ VCMI Project source code is licensed under GPL version 2 or later. VCMI Project 
 * The Battle for Wesnoth:
 The game's source code and artwork, sound, and music assets are provided under the terms of the GNU General Public License version 2, or (at your option) any later version. Note that for artwork, sound, and music, we interpret "preferred form of the work for making modifications" as the modifiable form that the author chooses to ship us for the source tree. For convenience, a reference copy of the GNU GPL version 2 is provided in the COPYING.txt file in this distribution.
 
+* Attal : Lords of doom:
+GPL version 2 or later. Check COPYING.txt
+
 * Flare:
 All of Flare's art and data files are released under CC-BY-SA 3.0. Later versions are permitted.
 
