@@ -1,4 +1,7 @@
 
+/home/1/vcmi/vcmi-data-src/unknown.horizons/tabwidget/icon_trade_ship.png - for ship from CRADVNTR.def
+http://opengameart.org/content/5x-special-effects-2d- magic animation
+
 http://opengameart.org/content/flare-model-horse
 http://www.html5gamedevelopment.com/html5-tools/2012-01-free-game-graphics-and-audio-resources
 http://gamedev.stackexchange.com/questions/20/where-can-i-find-free-sprites-and-images
