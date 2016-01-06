@@ -1,1 +1,2 @@
 http://attal.cvs.sourceforge.net/viewvc/attal/themes/medieval/images/ressources/
+http://attal.cvs.sourceforge.net/viewvc/attal/themes/medieval/images/tiles/
